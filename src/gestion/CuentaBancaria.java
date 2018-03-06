@@ -20,7 +20,6 @@ public class CuentaBancaria {
             throw new Exception("Cantidad minima de 50 €.");
         }
 
-        this.saldo = cantidad;
 
     }
 
